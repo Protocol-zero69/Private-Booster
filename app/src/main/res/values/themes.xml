@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.GameBoosterLite" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>
